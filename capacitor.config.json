@@ -1,0 +1,8 @@
+{
+  "appId": "com.prince.timeslot",
+  "appName": "TimeSlot",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
